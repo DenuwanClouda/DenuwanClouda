@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenuwanClouda
+- 👋 Hi, I’m Denuwan Weerarathne
 - 👀 I’m interested in Machine Learning, DevOps, MlOps, Natural Language Processing, Data Science
 - 🌱 I’m currently learning work in Clouda.LK as an Intern
 - 📫 How to reach me e18382@eng.pdn.ac.lk
